@@ -1,0 +1,38 @@
+_repo: Code-Three_19111
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Schoenherr, John
+    aliases:
+    - Schoenherr, Jack
+    - Schoenherr, John (John Carl)
+    birthdate: 1935
+    deathdate: 2010
+    gutenberg_agent_id: '25396'
+    url: http://www.gutenberg.org/2009/agents/25396
+    wikipedia: http://en.wikipedia.org/wiki/John_Schoenherr
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Raphael, Rick
+    birthdate: 1919
+    deathdate: 1994
+    gutenberg_agent_id: '8476'
+    url: http://www.gutenberg.org/2009/agents/8476
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2006-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19111'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: Code Three
+url: http://www.gutenberg.org/ebooks/19111
